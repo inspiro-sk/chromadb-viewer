@@ -1,0 +1,4 @@
+.env
+run_chroma.bat
+experiments.ipynb
+/__pycache__/**
