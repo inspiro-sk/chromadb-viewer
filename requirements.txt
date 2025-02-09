@@ -1,5 +1,7 @@
+chromadb
+google-generativeai
 streamlit
+scikit-learn
 pandas
 numpy
-scikit-learn
 plotly

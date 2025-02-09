@@ -7,7 +7,6 @@ import os
 from dotenv import load_dotenv
 import numpy as np
 import argparse
-import sys
 import visualize_embed
 
 load_dotenv()

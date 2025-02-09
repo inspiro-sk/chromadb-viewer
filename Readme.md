@@ -3,6 +3,8 @@
 A simple and easy to use viewer for ChromaDB if you want to better understand how your emebddings are stored.
 You can also use simple visualization to 'see' the embeddings space (highly experimental, off by default).
 
+Note: This version uses custom embedding function which utilized Google Gemini embedding model instead of default ChromaDB model. Therefore you will need to obtain Google API key to use as-is, or implement your own embedding function. Choice is yours.
+
 ## How to get started
 
 First you will need to install the dependencies with the following command:
