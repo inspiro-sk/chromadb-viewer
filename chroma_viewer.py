@@ -1,11 +1,11 @@
+import os
 import chromadb
 from chromadb import EmbeddingFunction, Documents, Embeddings
-import pandas as pd 
-import streamlit as st
 import google.generativeai as genai
-import os
-from dotenv import load_dotenv
+import streamlit as st
+import pandas as pd 
 import numpy as np
+from dotenv import load_dotenv
 import argparse
 import visualize_embed
 
